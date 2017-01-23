@@ -1,0 +1,10 @@
+# Follow along
+* Python 3.6 (https://www.python.org/downloads/)
+* pytest, pytest-selenium, tox (pip install ...)
+* Firefox (http://getfirefox.org)
+* GeckoDriver (https://github.com/mozilla/geckodriver)
+* The Internet (http://the-internet.herokuapp.com/)
+* Java Runtime Environment (https://java.com/en/download/)
+* Selenium standalone server (http://www.seleniumhq.org/download/)
+* Docker (https://www.docker.com/products/overview)
+* Git (https://git-scm.com/downloads)
