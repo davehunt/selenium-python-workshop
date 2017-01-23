@@ -1,6 +1,6 @@
 # Follow along
 * Python 3.6 (https://www.python.org/downloads/)
-* pytest, pytest-selenium, tox (pip install ...)
+* pytest, pytest-selenium, tox, cookiecutter (pip install ...)
 * Firefox (http://getfirefox.org)
 * GeckoDriver (https://github.com/mozilla/geckodriver)
 * The Internet (http://the-internet.herokuapp.com/)
