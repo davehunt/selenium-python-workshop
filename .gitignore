@@ -1,0 +1,10 @@
+.cache/
+.workshop/
+assets/
+resources/
+solutions/__pycache__/
+solutions/.tox/
+solutions/*.html
+.DS_Store
+geckodriver.log
+results.html

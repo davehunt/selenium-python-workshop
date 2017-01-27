@@ -1,0 +1,2 @@
+# Implicit waits
+Selenium supports implicit waits, which means that any time an element does not exist at a location it's told to find one, it will automatically retry until the timeout has elapsed. Whilst this sounds like a great idea, it adds a cost whenever you're *expecting* an element to not be present. Implicit waits also only wait for elements to be *present*, which means they may not even be displayed or ready for interaction. To get around this, you can use explicit waits, however these don't work well when used with implicit waits.

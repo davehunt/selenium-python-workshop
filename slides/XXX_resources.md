@@ -1,5 +1,11 @@
 # Resources
-* Selenium documentation: http://docs.seleniumhq.org/
-* Python client API documentation: http://seleniumhq.github.io/selenium/docs/api/py/
-* Python client wiki: https://github.com/SeleniumHQ/selenium/wiki/Python-Bindings/
-* Slack: https://seleniumhq.herokuapp.com/
+* This workshop: https://github.com/davehunt/selenium-python-workshop
+* Selenium Slack: https://seleniumhq.herokuapp.com/
+* #selenium on Freenode
+* #pylib and #pytest on Freenode
+* pytest, python testing mailing lists
+* selenium user group
+* selenium dev group
+* StackOverflow
+* Elemental Selenium
+* Selenium Conference

@@ -15,7 +15,9 @@ Whilst not a requirement, the workshop does cover the alternative interactive sh
 ## Package dependencies
 The following package dependencies are required and used at various points in the workshop. These can be installed using `pip install <package>` from within your virtual environment. Note that this is not an exhaustive list of dependencies, as these packages have their own required dependencies that will be installed alongside them.
 
+* PyPOM
 * pytest-selenium
+* pytest-xdist
 * tox
 * cookiecutter
 
@@ -43,6 +45,14 @@ Sign up for a free Sauce Labs trial at https://saucelabs.com/ to run tests again
 
 ## Docker
 The workshop will cover running tests against Docker containers. For this you will need Docker installed for your platform, which you can get from https://www.docker.com/products/overview.
+
+You may also want to download the Docker images in advance. Once you have Docker installed, you can do this using the following commands:
+
+```
+docker pull selenium/hub
+docker pull selenium/node-firefox
+docker pull selenium/standalone-firefox
+```
 
 ## Git
 In the final part of the workshop, we'll cover how to get hold of the Selenium source code, build the Python client, and run the tests. This will require you to have the Git SCM tool for your platform, which you can download from https://git-scm.com/downloads.
