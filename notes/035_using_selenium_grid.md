@@ -4,4 +4,4 @@
 
 3. Show the web console: http://localhost:4444/grid/console
 
-4. Run tests against the grid: `pytest -n auto --driver Remote --variables solutions/variables.json --capability browserName firefox solutions/XXX_page_objects.py`
+4. Run tests against the grid: `pytest -n auto --driver Remote --variables solutions/variables.json --capability browserName firefox solutions/032_page_objects.py`

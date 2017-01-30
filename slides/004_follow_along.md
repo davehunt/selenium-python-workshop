@@ -1,7 +1,7 @@
 # Follow along
-* Course material (https://github.com/davehunt/selenium-python-workshop)
+* Workshop material (https://github.com/davehunt/selenium-python-workshop)
 * Python 3.6 (https://www.python.org/downloads/)
-* PyPOM, pytest, pytest-selenium, pytest-xdist, tox, cookiecutter (pip install ...)
+* flake8, PyPOM, pytest, pytest-selenium, pytest-xdist, tox, cookiecutter (pip install ...)
 * Firefox (http://getfirefox.org)
 * GeckoDriver (https://github.com/mozilla/geckodriver)
 * The Internet (http://the-internet.herokuapp.com/)

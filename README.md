@@ -15,6 +15,7 @@ Whilst not a requirement, the workshop does cover the alternative interactive sh
 ## Package dependencies
 The following package dependencies are required and used at various points in the workshop. These can be installed using `pip install <package>` from within your virtual environment. Note that this is not an exhaustive list of dependencies, as these packages have their own required dependencies that will be installed alongside them.
 
+* flake8
 * PyPOM
 * pytest-selenium
 * pytest-xdist

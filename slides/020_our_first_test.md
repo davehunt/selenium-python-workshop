@@ -7,4 +7,4 @@ Let's create a test that attempts to login to a website:
 4. Click login
 
 ## Exercise
-Complete your first test to meet the above requirements.
+1. Complete `exercises/020_our_first_test.py` to meet the above requirements.
