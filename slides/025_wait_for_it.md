@@ -1,2 +1,2 @@
 # Wait for it...
-Users instinctively when to wait for an interaction to be complete before they attempt further interactions. Unfortunately this isn't true for our automation. Our test current clicks login, but can't check that we're actually logged in because the check would always happen before this is true. This means we need to tell our test to wait.
+Users instinctively know when to wait for an interaction to be complete before they attempt further interactions. Unfortunately this isn't true for our automation. Our test current clicks login, but can't check that we're actually logged in because the check would always happen before this is true. This means we need to tell our test to wait.
