@@ -1,12 +1,8 @@
 flake8==3.2.1
-mccabe==0.5.3
-py==1.4.32
-pycodestyle==2.2.0
-pyflakes==1.3.0
+PyPOM==1.1.1
 pytest==3.0.6
 pytest-base-url==1.2.0
 pytest-html==1.13.0
 pytest-selenium==1.8.0
 pytest-variables==1.4
-requests==2.13.0
-selenium==3.0.2
+pytest-xdist==1.15.0

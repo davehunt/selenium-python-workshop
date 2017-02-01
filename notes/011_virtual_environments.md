@@ -1,13 +1,11 @@
-1. Remove the existing virtual environment: `rm -rf .workshop`
+1. List global site packages: `pip list --format columns`
 
-2. List global site packages: `pip list --format columns`
+2. Create a virtual environment: `python -m venv --clear .workshop`
 
-3. Create a virtual environment: `python -m venv .workshop`
+3. Activate the new virtual environment: `source .workshop/bin/activate`
 
-4. Activate the new virtual environment: `source .workshop/bin/activate`
+4. List environment packages: `pip list --format columns`
 
-5. List environment packages: `pip list --format columns`
+5. Install the workshop requirements: `pip install -r solutions/requirements.txt`
 
-6. Install the workshop requirements: `pip install -r solutions/requirements.txt`
-
-7. Deactivate the virtual environment: `deactivate`
+6. Deactivate the virtual environment: `deactivate`
