@@ -7,3 +7,4 @@
 * PyPOM: http://pypom.readthedocs.io/
 * Docker for Selenium: https://github.com/SeleniumHQ/docker-selenium
 * Tox: http://tox.readthedocs.io/
+* Cookiecutter: https://cookiecutter.readthedocs.io/
