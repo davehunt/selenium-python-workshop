@@ -17,4 +17,4 @@
 * Troubleshooting failures
 * Running tests using Tox
 * Project template with cookiecutter
-* Fix a bug, become a committer!
+* Fix a bug, become a contributor!
